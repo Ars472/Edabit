@@ -20,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="task-2" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,11 +37,15 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "TestNG.PowerCalculatorTest.executor": "Run",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "TestNG.TriangleNumberTest.executor": "Run",
+    "git-widget-placeholder": "task-2",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.TriangleNumberTest">
     <configuration name="PowerCalculatorTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Edabit" />
       <extension name="coverage">
@@ -59,8 +63,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TriangleNumberTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Edabit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="triagleTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="triagleTest" />
+      <option name="MAIN_CLASS_NAME" value="triagleTest.TriangleNumberTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TriangleNumberTest" />
+        <item itemvalue="TestNG.PowerCalculatorTest" />
         <item itemvalue="TestNG.PowerCalculatorTest" />
       </list>
     </recent_temporary>

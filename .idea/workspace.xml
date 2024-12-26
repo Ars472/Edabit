@@ -38,14 +38,31 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "TestNG.PowerCalculatorTest.executor": "Run",
     "TestNG.TriangleNumberTest.executor": "Run",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "task-4",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.TriangleNumberTest">
+  <component name="RunManager" selected="TestNG.PinValidatorTest">
+    <configuration name="PinValidatorTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Edabit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pinTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pinTest" />
+      <option name="MAIN_CLASS_NAME" value="pinTest.PinValidatorTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PowerCalculatorTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Edabit" />
       <extension name="coverage">
@@ -82,10 +99,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.PinValidatorTest" />
         <item itemvalue="TestNG.TriangleNumberTest" />
-        <item itemvalue="TestNG.PowerCalculatorTest" />
-        <item itemvalue="TestNG.PowerCalculatorTest" />
-        <item itemvalue="TestNG.PowerCalculatorTest" />
         <item itemvalue="TestNG.PowerCalculatorTest" />
         <item itemvalue="TestNG.PowerCalculatorTest" />
         <item itemvalue="TestNG.PowerCalculatorTest" />

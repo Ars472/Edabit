@@ -85,6 +85,10 @@
         <item itemvalue="TestNG.TriangleNumberTest" />
         <item itemvalue="TestNG.PowerCalculatorTest" />
         <item itemvalue="TestNG.PowerCalculatorTest" />
+        <item itemvalue="TestNG.PowerCalculatorTest" />
+        <item itemvalue="TestNG.PowerCalculatorTest" />
+        <item itemvalue="TestNG.PowerCalculatorTest" />
+        <item itemvalue="TestNG.PowerCalculatorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -98,5 +102,16 @@
       <updated>1735136135707</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
